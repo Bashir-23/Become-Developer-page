@@ -69,3 +69,10 @@ body::before {
 .shadow-card:hover {
   margin-top: -2px;
 }
+
+.contact-info {
+  color: rgb(57, 29, 29);
+  font-weight: 600px;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
